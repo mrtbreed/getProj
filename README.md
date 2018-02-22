@@ -1,1 +1,1 @@
-# getProj
+Projects Within School
